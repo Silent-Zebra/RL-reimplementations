@@ -2,7 +2,8 @@ import copy
 import random
 from collections import namedtuple
 
-import numpy as np, gym
+import numpy as np
+import gym
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
